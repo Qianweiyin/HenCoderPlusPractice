@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-//        List<Object> list = new ArrayList<String>();
+        List<Object> list = new ArrayList<String>();
 
 
         Wrapper<String> stringWrapper = new Wrapper<>();
